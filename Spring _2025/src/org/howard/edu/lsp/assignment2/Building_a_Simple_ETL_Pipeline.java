@@ -6,8 +6,8 @@ import java.util.*;
 
 public class Building_a_Simple_ETL_Pipeline {
 
-    private static final String INPUT_FILE = "data/products.csv";
-    private static final String OUTPUT_FILE = "data/transformed_products.csv";
+    private static final String INPUT_FILE = "LSP_Spring_2025/data/products.csv";
+    private static final String OUTPUT_FILE = "LSP_Spring_2025/data/transformed_products.csv";
 
     public static void main(String[] args) {
         try {
